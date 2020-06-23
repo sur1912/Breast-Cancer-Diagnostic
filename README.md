@@ -1,0 +1,2 @@
+# Breast-Cancer-Diagnostic
+Breast cancer is the second most common cancer in women. Breast cancer starts when cells in the breast begin to grow out of control. These cells usually form a tumor that can often be seen on an x-ray or felt as a lump. The tumor is malignant (cancer) if the cells can grow into (invade) surrounding tissues or spread (metastasize) to distant areas of the body. Build an algorithm to automatically identify whether a patient is suffering from breast cancer or not
